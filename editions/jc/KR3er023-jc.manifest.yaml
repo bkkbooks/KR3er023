@@ -1,0 +1,354 @@
+canonical_identifier: bkk:krp/KR3er023/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er023/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫學芻言
+  identifiers:
+    krp: KR3er023
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er023.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er023_000-jc.yaml, hash: 'sha256:a3e2190806f4389bfb611d5e708b61961302e203040e82693cb5087bed4934c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er023_000-jc.markers.yaml, hash: 'sha256:355f0134dfaef7119dcc5db899cc17f1220754e60ab2b9afaf6a163f6cd2eeb4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 417
+  label: 第一章辨證概述
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d3.h1s1
+    span:
+    - body
+    - 417
+    - 1533
+  label: 第二章六淫治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d4.h1s1
+    span:
+    - body
+    - 1533
+    - 1675
+  label: 第三章七情治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d5.h1s1
+    span:
+    - body
+    - 1675
+    - 1832
+  label: 第四章勞倦飲食色欲傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d6.h1s1
+    span:
+    - body
+    - 1832
+    - 2180
+  label: 第五章郁證痰病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d7.h1s1
+    span:
+    - body
+    - 2180
+    - 3330
+  label: 第六章溫病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d8.h1s1
+    span:
+    - body
+    - 3330
+    - 3613
+  label: 第七章中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d9.h1s1
+    span:
+    - body
+    - 3613
+    - 3860
+  label: 第八章勞損
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d10.h1s1
+    span:
+    - body
+    - 3860
+    - 4593
+  label: 第九章臌脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d11.h1s1
+    span:
+    - body
+    - 4593
+    - 5063
+  label: 第十章噎膈反胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d12.h1s1
+    span:
+    - body
+    - 5063
+    - 5376
+  label: 第十一章痰飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d13.h1s1
+    span:
+    - body
+    - 5376
+    - 5704
+  label: 第十二章咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d14.h1s1
+    span:
+    - body
+    - 5704
+    - 6688
+  label: 第十三章血證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d15.h1s1
+    span:
+    - body
+    - 6688
+    - 7882
+  label: 第十四章心腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d16.h1s1
+    span:
+    - body
+    - 7882
+    - 8449
+  label: 第十五章痛風痹腰痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d17.h1s1
+    span:
+    - body
+    - 8449
+    - 8562
+  label: 第十六章癲狂癇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d18.h1s1
+    span:
+    - body
+    - 8562
+    - 8741
+  label: 第十七章消渴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d19.h1s1
+    span:
+    - body
+    - 8741
+    - 8838
+  label: 第十八章傷食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d20.h1s1
+    span:
+    - body
+    - 8838
+    - 9143
+  label: 第十九章黃疸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d21.h1s1
+    span:
+    - body
+    - 9143
+    - 9740
+  label: 第二十章瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d22.h1s1
+    span:
+    - body
+    - 9740
+    - 10781
+  label: 第二十一章痢疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d23.h1s1
+    span:
+    - body
+    - 10781
+    - 11379
+  label: 第二十二章頭痛耳聾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d24.h1s1
+    span:
+    - body
+    - 11379
+    - 11782
+  label: 第二十三章疝證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d25.h1s1
+    span:
+    - body
+    - 11782
+    - 11926
+  label: 第二十四章痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d26.h1s1
+    span:
+    - body
+    - 11926
+    - 12421
+  label: 第二十五章泄瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d27.h1s1
+    span:
+    - body
+    - 12421
+    - 12738
+  label: 第二十六章嘔吐噦呃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d28.h1s1
+    span:
+    - body
+    - 12738
+    - 13203
+  label: 第二十七章積聚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d29.h1s1
+    span:
+    - body
+    - 13203
+    - 13356
+  label: 第二十八章五淋癃閉文中沒有癃閉證治想系傳抄脫佚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d30.h1s1
+    span:
+    - body
+    - 13356
+    - 13625
+  label: 第二十九章遺精
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d31.h1s1
+    span:
+    - body
+    - 13625
+    - 13754
+  label: 第三十章赤白濁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d32.h1s1
+    span:
+    - body
+    - 13754
+    - 13852
+  label: 第三十一章自汗盜汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d33.h1s1
+    span:
+    - body
+    - 13852
+    - 13988
+  label: 第三十二章怔忡驚悸不眠健忘奔豚
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er023_jc_000-d34.h1s1
+    span:
+    - body
+    - 13988
+    - 14818
+  label: 第三十三章婦人門
+  type: section
+  level: 1
+hash: sha256:c98d8c195803c0cd11a35eafdf71c431c6aec991c99440226897b6bfe5a358a8
