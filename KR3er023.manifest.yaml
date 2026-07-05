@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er023_000.yaml, hash: 'sha256:0ea3b9ddac241853df71a1f9d570f1e19ba2216ce3b9a5210d099a1a0283515d'}
+  - {seq: 0, filename: KR3er023_000.yaml, hash: 'sha256:a3e2190806f4389bfb611d5e708b61961302e203040e82693cb5087bed4934c9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er023_000.markers.yaml, hash: 'sha256:963144c3a4107cece89d5669f9754d08d8c03a5b70072d7dd7a08c4f00fe6755'}
+  - {seq: 0, role: markers, filename: assets/KR3er023_000.markers.yaml, hash: 'sha256:d17b2d9585266af1378a9dbe1e2402d9a9b763f483903f7d60067b4a82ce06de'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,7 +351,4 @@ table_of_contents:
   label: 第三十三章婦人門
   type: section
   level: 1
-hash: sha256:c8791f84b4e7f18b231b1f3ea05ed87ea44d8a988dc39e866cbe30dd517a27e7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:25aa9432e7178baabaa845c9fbcd3e31dce8e2fda88e1b186c385ac01e1a57ea
