@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er023/v1
 canonical_location: https://kanripo.org/bkk/KR3er023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫學芻言
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er023_000.yaml, hash: 'sha256:a3e2190806f4389bfb611d5e708b61961302e203040e82693cb5087bed4934c9'}
+  - {seq: 0, filename: KR3er023_000.yaml, hash: 'sha256:20e4a60d43d857ec58b5bcac110f53339e74745621d341fd225b1adb6112f9e9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er023_000.markers.yaml, hash: 'sha256:d17b2d9585266af1378a9dbe1e2402d9a9b763f483903f7d60067b4a82ce06de'}
+  - {seq: 0, role: markers, filename: assets/KR3er023_000.markers.yaml, hash: 'sha256:bb4430f8e740c9e256fd556d5875aaa24ff2410f51c772805e44c1a147da1c47'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,7 @@ table_of_contents:
   label: 第三十三章婦人門
   type: section
   level: 1
-hash: sha256:25aa9432e7178baabaa845c9fbcd3e31dce8e2fda88e1b186c385ac01e1a57ea
+hash: sha256:cd9556716816d6e7c81a6faa58847b70df2f68220bd0b8716c61f6853d2f2d02
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
