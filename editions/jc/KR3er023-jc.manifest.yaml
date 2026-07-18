@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er023_000-jc.yaml, hash: 'sha256:a3e2190806f4389bfb611d5e708b61961302e203040e82693cb5087bed4934c9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er023_000-jc.markers.yaml, hash: 'sha256:355f0134dfaef7119dcc5db899cc17f1220754e60ab2b9afaf6a163f6cd2eeb4'}
+  - {seq: 0, role: markers, filename: assets/KR3er023_000-jc.markers.yaml, hash: 'sha256:432ea87dec271b4504a456dcd3679f58d14678ca9b590f446d808f660310d94a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -351,4 +351,4 @@ table_of_contents:
   label: 第三十三章婦人門
   type: section
   level: 1
-hash: sha256:c98d8c195803c0cd11a35eafdf71c431c6aec991c99440226897b6bfe5a358a8
+hash: sha256:87f2f6895bc0b0e3cb10ca667a3eb6da244dea2b0cc4c1771484cd2d50c991c6
